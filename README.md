@@ -7,27 +7,27 @@ This project looked at how Rychtenshane Community Housing Group staff used their
 
 **Compliance and Training Summary**
 
-![Compliance Summary](Dashboard/Screenshots/Compliance & Training Summary.png)
+![Compliance Summary](Dashboard/Screenshots/Compliance%20&%20Training%20Summary.png)
 
 This dashboard tracks compliance and training activity across departments, showing overall completion rates, overdue course counts, and how training trends have evolved from 2018 to 2025.
 
 **Performance Analysis**
-![Performance Analysis](Dashboard/Screenshots/Performance Analysis.png)
+![Performance Analysis](Dashboard/Screenshots/Performance%20Analysis.png)
 
 This view highlights team-based skill ratings and tracks the evolution of employee feedback throughout the year. It also reveals that nearly two-thirds of staff members show flagged gaps in core competencies, guiding where targeted development efforts may be needed.
 
 **Engagement Patterns**
-`![Engagement Trends](Dashboard/Screenshots/Engagement Patterns.png)`
+![Engagement Trends](Dashboard/Screenshots/Engagement%20Patterns.png)
 
 This visualization explores LMS engagement patterns, breaking down course duration by job role and location, and showing access trends across devices. It also tracks monthly enrollment versus activity rates from 2018 to 2025.
 
 **Accessibility Overview**
-`![Accessibility Insights](Dashboard/Screenshots/Accessibility Overview.png)`
+`![Accessibility Insights](Dashboard/Screenshots/Accessibility%20Overview.png)`
 
 This accessibility-focused dashboard presents key user statistics, showing that nearly 20% of courses were undertaken via screen reader. It also breaks down feedback sentiment across rating categories, helping assess courses ranking among diverse user groups.
 
 **Statistical Insights**
-`![Advanced Analysis](Dashboard/Screenshots/Statistical Insights.png)`
+`![Advanced Analysis](Dashboard/Screenshots/Statistical%20Insights.png)`
 
 The dashboard shows no significant differences in performance across departments, while forecasting a downward trend in training completions. It also reveals a link between training time and frequency with performance, supporting better course design moving forward.
 
