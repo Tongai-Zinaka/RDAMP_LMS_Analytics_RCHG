@@ -60,6 +60,8 @@ Complex measures were created by using CALCULATE, USERELATIONSHIP and DIVIDE to 
 
 ### Assumptions
 
+Due to inconsistencies in the original data field, we encountered challenges performing direct calculations. As a workaround, we segmented the data into broader time-based slices — such as month, year and quarter — to support reliable and consistent analysis throughout the project.
+
 ### Final results
 
 How our analysis meets RCHG’s goals:
@@ -74,7 +76,7 @@ How our analysis meets RCHG’s goals:
 
 The team consisted of:
 
-- [LinkedIn - Ciruthika Nithusyanthan](https://www.linkedin.com/in/ciruthika-nithusyanthan-0074524a) (GitHub: Ciruthika52)
-- [LinkedIn - Tongai Zinaka](https://www.linkedin.com/in/tongai-zinaka) (GitHub: Tongai-Zinaka)
-- [LinkedIn - Aamina Patel](https://www.linkedin.com/in/aamina-patel) (GitHub: Aamina-Patel)
-- [LinkedIn - Elena Losavio](https://www.linkedin.com/in/elena-losavio) (GitHub: Elena-L13)
+- [LinkedIn - Ciruthika Nithusyanthan](https://www.linkedin.com/in/ciruthika-nithusyanthan-0074524a) (GitHub: @Ciruthika52)
+- [LinkedIn - Tongai Zinaka](https://www.linkedin.com/in/tongai-zinaka) (GitHub: @Tongai-Zinaka)
+- [LinkedIn - Aamina Patel](https://www.linkedin.com/in/aamina-patel) (GitHub: @Aamina-Patel)
+- [LinkedIn - Elena Losavio](https://www.linkedin.com/in/elena-losavio) (GitHub: @Elena-L13)
