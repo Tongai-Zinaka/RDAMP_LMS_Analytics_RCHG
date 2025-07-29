@@ -7,17 +7,17 @@ This project looked at how Rychtenshane Community Housing Group staff used their
 
 **Compliance and Training Summary**
 
-`![Compliance Summary](Dashboard/Screenshots/Compliance & Training Summary.jpeg)`
+`![Compliance Summary](Dashboard/Screenshots/Compliance & Training Summary.png)`
 
 This dashboard tracks compliance and training activity across departments, showing overall completion rates, overdue course counts, and how training trends have evolved from 2018 to 2025.
 
 **Performance Analysis**
-`![Performance Analysis](Dashboard/Screenshots/Performance Analysis.jpeg)`
+`![Performance Analysis](Dashboard/Screenshots/Performance Analysis.png)`
 
 This view highlights team-based skill ratings and tracks the evolution of employee feedback throughout the year. It also reveals that nearly two-thirds of staff members show flagged gaps in core competencies, guiding where targeted development efforts may be needed.
 
 **Engagement Patterns**
-`![Engagement Trends](Dashboard/Screenshots/Engagement Patterns.jpeg)`
+`![Engagement Trends](Dashboard/Screenshots/Engagement Patterns.png)`
 
 This visualization explores LMS engagement patterns, breaking down course duration by job role and location, and showing access trends across devices. It also tracks monthly enrollment versus activity rates from 2018 to 2025.
 
