@@ -26,10 +26,14 @@ This visualization explores LMS engagement patterns, breaking down course durati
 
 This accessibility-focused dashboard presents key user statistics, showing that nearly 20% of courses were undertaken via screen reader. It also breaks down feedback sentiment across rating categories, helping assess courses ranking among diverse user groups.
 
+You can find feedback count, percentage of training completed with a screen reader, avergae feedback ratings, and performance comparisons for users with accessibility needs.
+
 **Statistical Insights**
 ![Advanced Analysis](Dashboard/Screenshots/Statistical%20Insights.png)
 
 The dashboard shows no significant differences in performance across departments, while forecasting a downward trend in training completions. It also reveals a link between training time and frequency with performance, supporting better course design moving forward.
+
+It includes ANOVA results, average skills score per team, forecasting of training completions for next quarter, and regression on training time vs performance.
 
 ### DAX measures used
 
@@ -50,8 +54,8 @@ Complex measures were created by using CALCULATE, USERELATIONSHIP and DIVIDE to 
 - **Skill Gap Assessment:** Flags teams falling below benchmarks in key competency areas.
 - **Accessibility Segmentation:** Breaks down feedback and usage statistics between screen reader users and general users.
 - **Correlation Exploration:** Visually checks for relationships between variables like feedback scores and course completion.
-- **ANOVA (Analysis of Variance):** Tests whether performance differences across groups (e.g. departments) are statistically significant.
-- **Forecasting:** Predicts future training completion patterns using historical trends.
+- **ANOVA (Analysis of Variance):** Tests whether performance differences across groups (e.g. departments) are statistically significant. Excel Data Analysis Toolpack (Two-Factor ANOVA)
+- **Forecasting:** Predicts future training completion patterns using historical trends. Power BI line chart with Analytics Pane forecast
 - **Training Impact Modeling:** Explores how time spent on training relates to performance improvements using scatterplots.
 
 ### Assumptions
@@ -70,7 +74,7 @@ How our analysis meets RCHG’s goals:
 
 The team consisted of:
 
-- Ciruthika Nithusyanthan (GitHub: Ciruthika52)
+- [LinkedIn - Ciruthika Nithusyanthan] (https://www.linkedin.com/in/ciruthika-nithusyanthan-0074524a) GitHub: Ciruthika52
 - Tongai Zinaka (GitHub: Tongai-Zinaka)
 - Aamina Patel (GitHub: Aamina-Patel)
 - Elena Losavio (GitHub: Elena-L13)
