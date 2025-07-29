@@ -74,7 +74,7 @@ How our analysis meets RCHG’s goals:
 
 The team consisted of:
 
-[LinkedIn - Ciruthika Nithusyanthan](https://www.linkedin.com/in/ciruthika-nithusyanthan-0074524a) GitHub: Ciruthika52
-[LinkedIn - Tongai Zinaka](https://www.linkedin.com/in/tongai-zinaka) GitHub: Tongai-Zinaka
-- Aamina Patel (GitHub: Aamina-Patel)
-- Elena Losavio (GitHub: Elena-L13)
+- [LinkedIn - Ciruthika Nithusyanthan](https://www.linkedin.com/in/ciruthika-nithusyanthan-0074524a) (GitHub: Ciruthika52)
+- [LinkedIn - Tongai Zinaka](https://www.linkedin.com/in/tongai-zinaka) (GitHub: Tongai-Zinaka)
+- [LinkedIn - Aamina Patel](https://www.linkedin.com/in/aamina-patel) (GitHub: Aamina-Patel)
+- [LinkedIn - Elena Losavio](https://www.linkedin.com/in/elena-losavio) (GitHub: Elena-L13)
