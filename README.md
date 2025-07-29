@@ -7,12 +7,12 @@ This project looked at how Rychtenshane Community Housing Group staff used their
 
 **Compliance and Training Summary**
 
-`![Compliance Summary](Dashboard/Screenshots/Compliance & Training Summary.png)`
+![Compliance Summary](Dashboard/Screenshots/Compliance & Training Summary.png)
 
 This dashboard tracks compliance and training activity across departments, showing overall completion rates, overdue course counts, and how training trends have evolved from 2018 to 2025.
 
 **Performance Analysis**
-`![Performance Analysis](Dashboard/Screenshots/Performance Analysis.png)`
+![Performance Analysis](Dashboard/Screenshots/Performance Analysis.png)
 
 This view highlights team-based skill ratings and tracks the evolution of employee feedback throughout the year. It also reveals that nearly two-thirds of staff members show flagged gaps in core competencies, guiding where targeted development efforts may be needed.
 
